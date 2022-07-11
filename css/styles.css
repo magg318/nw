@@ -1,0 +1,91 @@
+
+
+.first-container{
+    background: rgb(181, 186, 233);
+   position: relative;
+   margin-top: 0px;
+
+}
+
+.first{
+    font-family: cursive;
+    color: rgb(127, 146, 207);
+    text-align: center;
+    margin: 0;
+}
+
+.first-p{
+    font-size: large;
+    font-style: italic;
+    color:  rgb(47, 136, 187);
+    text-align: center;
+    margin: 0;
+}
+.cloud_one{
+   width: 200px;
+   height: 200px;
+   position: relative;
+   left: 900px;
+}
+.cloud_two{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    left: 120px; 
+}  
+
+.mountain{
+    display: block;
+    margin: auto;
+    width: 800px;
+    position: relative;
+    top: -120px;
+}
+.second-container{
+background-color: rgb(88, 79, 68);    
+}
+.hacker{
+    display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 60px;
+}
+.p1{
+    text-align: center;
+    text-decoration: wavy;
+    margin: 0px;
+    font-size: x-large;
+
+
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
+p{
+    text-align: center;
+    margin: 0;
+}
+.contact{
+    position: relative;
+    left: 600px;
+    font-size: x-large;
+    font-style: oblique;
+    color:  rgb(47, 136, 187);
+
+}
+.contact1{
+    text-align: left;
+
+}
+.bcolor{
+    background: rgb(181, 186, 233);
+}
